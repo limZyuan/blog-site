@@ -1,3 +1,2 @@
 [build]
-  CI = "npm run build && npm run export"
-  publish = "out"
+  CI = "npm run build && npm run start"
