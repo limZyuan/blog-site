@@ -15,4 +15,4 @@ Built with:
 
 Posts can be directly managed with the backend CMS with ease.
 
-*Not hosted on Netlify due to it having dynamic pages. Would require Vercel hosting instead. 
+*Not hosted on Netlify due to it having pages with dynamic routes (Next.js fallback function). Would require Vercel hosting instead. 
